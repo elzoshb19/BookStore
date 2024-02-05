@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eJRokXc9lq5O4wOXdzOI0dlPxuhghJ3BkYxe1Mi3cbi3sra04k770/DGQvUffTLohDjmq/N7+lGplS0lxYCqWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Потребител\\Desktop\\Uni 4\\C#\\book-store\\BookStore.DL\\BookStore.DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Потребител\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Потребител\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Потребител\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
